@@ -1,1 +1,2 @@
-My first readme
+ Progress is being made
+ 
